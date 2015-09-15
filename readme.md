@@ -9,7 +9,7 @@ Aplikasi yang dibuat menggunakan Java, database MySQL dan untuk laporan data men
 
 Inline code to connection
 ``` java
-String url = "jdbc:mysql://localhost/pendataan"; //database name
+String url = "jdbc:mysql://localhost/databasename"; //database name
 String user = "root";//username
 String pass = "";//password
 ```
